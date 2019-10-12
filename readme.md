@@ -24,5 +24,5 @@ _______________________
 */*  run php artisan migrate command through your terminal to publish all tables on database 
 */* run php artisan db:seed to fill product tables with some records 
 */* run php artisan passport:install 
-*/* get to your postman tool and run project endpoints and don't foreget to include the headers using token.
+*/* get to your postman tool and run project endpoints and don't forget to include the headers using token.
 
